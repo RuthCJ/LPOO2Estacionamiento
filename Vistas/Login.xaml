@@ -1,0 +1,28 @@
+﻿<Window x:Class="Vistas.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:my="clr-namespace:Vistas.User_Controls"
+        Title="Login" Height="470" Width="910"  MinHeight="317" MinWidth="372"
+        WindowStartupLocation="CenterScreen" Icon="/Vistas;component/Images/Logo1.PNG" >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70*" />
+            <RowDefinition Height="226*" />
+            <RowDefinition Height="70*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="152*" />
+            <ColumnDefinition Width="408*" />
+            <ColumnDefinition Width="152*" />
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Vistas;component/Images/fondoInicio1.png" />
+        </Grid.Background>
+        <my:ctrlLogin Height="154" HorizontalAlignment="Center" Margin="0,0,0,0" x:Name="ctrlLogin" VerticalAlignment="Center" Width="302" Grid.Column="1" Grid.Row="1" Foreground="{x:Null}" Opacity="0.99" BorderBrush="#FF46E5CE" Background="{x:Null}"></my:ctrlLogin>
+
+        <Button Content="Ingresar" Height="44" HorizontalAlignment="Center" Margin="0,0,0,0" Name="btnIngresar" VerticalAlignment="Center" Width="181" FontSize="20" ClickMode="Press" Foreground="#FF8BCEF2" Grid.Row="2" Grid.Column="1" FontFamily="Constantia" Click="btnIngresar_Click" FontWeight="Bold" FontStyle="Normal" BorderBrush="#FF46E5CE" Background="#FF003053" Opacity="0.99"></Button>
+
+        <Button Content="Sobre Nosotros" Height="50" HorizontalAlignment="Center" Name="aboutUs" Style="{StaticResource btnEstilo}" VerticalAlignment="Center" Width="130" Grid.Row="2" Click="aboutUs_Click" />
+        <Label Height="40" VerticalAlignment="Center" HorizontalAlignment="Center"  Name="lblTitulo" Width="508" FontSize="24" FontFamily="Constantia" FontWeight="Bold" Foreground="#FF8BCEF2" Margin="0,0" Content="¡Bienvenido al Sistema de Estacionamiento!" Grid.Column="1" />
+    </Grid>
+</Window>

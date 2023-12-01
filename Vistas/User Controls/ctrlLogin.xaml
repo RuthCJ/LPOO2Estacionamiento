@@ -1,0 +1,16 @@
+﻿<UserControl x:Class="Vistas.User_Controls.ctrlLogin"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" FontWeight="Normal" Height="146" Width="291">
+    <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Height="144" Width="290" Background="#FF003053">
+
+        <Label Content="Username" FontSize="18" Foreground="#FF8BCEF2" HorizontalAlignment="Left" Margin="12,18,0,0" Name="username" Width="106" Height="30" VerticalAlignment="Top" FontFamily="Constantia" />
+        <TextBox BorderBrush="{x:Null}" FontSize="18" Height="30" HorizontalAlignment="Right" Margin="0,18,12,0" Name="txtUsername" VerticalAlignment="Top" Width="148" FontFamily="Constantia" Background="#FF8BCEF2" Foreground="#FF003053" />
+
+        <Label Content="Contraseña" FontSize="18" Foreground="#FF8BCEF2" HorizontalAlignment="Left" Margin="12,0,0,38" Name="password" Width="106" Height="30" VerticalAlignment="Bottom" FontFamily="Constantia" />
+        <PasswordBox BorderBrush="{x:Null}" FontSize="18" Height="30" HorizontalAlignment="Right" Margin="0,18,12,38" Name="txtPassword" Width="148" VerticalAlignment="Bottom" Password="" Foreground="#FF003053" Background="#FF8BCEF2" />
+
+    </Grid>
+</UserControl>

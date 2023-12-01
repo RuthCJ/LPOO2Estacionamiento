@@ -1,0 +1,93 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Style x:Key="btnEstilo" TargetType="Button">
+        <Setter Property="Background" Value="#FF0F216B"/>
+        <Setter Property="Foreground" Value="#FF92D0DA"/>
+        <Setter Property="FontSize" Value="18"/>
+        <Setter Property="FontFamily" Value="Constantia"/>
+        <Setter Property="Height" Value="30"/>
+        <Setter Property="Width" Value="100"/>
+
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="Button">
+
+                    <Border x:Name="border" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" >
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+
+                    <ControlTemplate.Triggers>
+
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter TargetName="border" Property="Background" Value="#FF92D0DA"/>
+                            <Setter Property="Foreground" Value="#FF0F216B"/>
+                            <Setter Property="FontSize" Value="18" />
+                            <Setter Property="FontFamily" Value="Constantia"/>
+                            <Setter Property="Cursor" Value="Hand" />
+
+                            <Setter Property="Effect">
+                                <Setter.Value>
+                                    <DropShadowEffect BlurRadius="25" Color="Black" Opacity="0.8" ShadowDepth="0" Direction="0"/>
+                                </Setter.Value>
+                            </Setter>
+                        </Trigger>
+
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+
+    </Style>
+
+
+    <Style x:Key="plantilla_canvas">
+        <Setter Property="Canvas.Background">
+            <Setter.Value>
+                <LinearGradientBrush StartPoint="1,0" EndPoint="0,1">
+                    <!--<GradientStop Color="LimeGreen" Offset="1.9" />  -->
+                    <GradientStop Color="#9B011651" Offset="0.5" />
+                    <GradientStop Color="#50FE018E" Offset="-0.4" />
+
+                </LinearGradientBrush>
+            </Setter.Value>
+        </Setter>
+        <Style.Triggers>
+            <MultiTrigger>
+                <MultiTrigger.Conditions>
+                    <Condition Property="Canvas.Name" Value="canvas1"></Condition>
+                </MultiTrigger.Conditions>
+                <MultiTrigger.Setters>
+                    <Setter Property="Canvas.Background">
+                        <Setter.Value>
+                            <LinearGradientBrush StartPoint="1,0" EndPoint="0,1">
+
+                                <GradientStop Color="LimeGreen" Offset="1.9" />
+                                <GradientStop Color="#9B011651" Offset="0.5" />
+                                <GradientStop Color="#50FE018E" Offset="-0.4" />
+
+                            </LinearGradientBrush>
+                        </Setter.Value>
+                    </Setter>
+                </MultiTrigger.Setters>
+            </MultiTrigger>
+        </Style.Triggers>
+    </Style>
+
+    <Style x:Key="GridViewColumnHeaderStyle1" TargetType="{x:Type GridViewColumnHeader}" >
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type GridViewColumnHeader}">
+                    <Border BorderThickness="2,2,2,2" BorderBrush="#FF124D93" Background="#FF007E81">
+                        <TextBlock x:Name="ContentHeader" Text="{TemplateBinding Content}" Padding="5,5,5,5" TextAlignment="Center" />
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+        <Setter Property="OverridesDefaultStyle" Value="False" />
+        <Setter Property="Foreground" Value="#FF46E5CE" />
+        <Setter Property="FontFamily" Value="Constantia" />
+        <Setter Property="FontSize" Value="18" />
+    </Style>
+
+</ResourceDictionary>

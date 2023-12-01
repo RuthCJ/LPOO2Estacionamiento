@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Vistas.ABMCliente" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAIAAQAAEAIAAAAAAAAAAAiABAAIAAAABgABAACAg=</HashCode>
+      <FileName>ABMCliente.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vistas.ABMSector" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAABAAAAIAABAAAIAAAADABAAIAIAADgAAAACAA=</HashCode>
+      <FileName>ABMSector.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vistas.ABMUsuario" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAACAAACAAEgACAAgAAQAIAAAAAA0AEEABAgA=</HashCode>
+      <FileName>ABMUsuario.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vistas.ABMVehiculo" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAYBAAAAIAAAAAAAAIQAgACAhAAIAAAgBAAAAACAA=</HashCode>
+      <FileName>ABMVehiculo.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vistas.AcercaDe" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AcercaDe.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vistas.App" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vistas.EstadoSector" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EstadoSector.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vistas.GrillaClientes" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GrillaClientes.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vistas.GrillaSectores" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GrillaSectores.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vistas.GrillaVehiculos" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>GrillaVehiculos.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vistas.ListadoUsuario" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAIAAAAEAgAACAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>ListadoUsuario.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vistas.MenuPrincipalWindow" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEBAAAACACIAAAAAAAAgAUAAAAAACAAAAACAAAAA=</HashCode>
+      <FileName>MenuPrincipalWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vistas.RegistrarEntrada" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAIEAAAQAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>RegistrarEntrada.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vistas.RegistrarSalida" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAIAAAAAAAAAEAAAAQAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>RegistrarSalida.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vistas.Sectores" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAwCgggEAAATAABFBBEAhgAEQAAgQACAIAAQCAAGhI=</HashCode>
+      <FileName>Sectores.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vistas.SectoresOcupados" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAIACAAAAAgAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>SectoresOcupados.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vistas.TicketEntrada" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TicketEntrada.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vistas.TicketWindow" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABIAAAAAAAAAAAAAAAAAgAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>TicketWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vistas.ValidarCliente" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ValidarCliente.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vistas.Ventas" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAgAIAAAAIAAAEAAgAAAAAA=</HashCode>
+      <FileName>Ventas.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vistas.VistaPreviaImpresion" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAgAAAAAAAAAAAAAIAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>VistaPreviaImpresion.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vistas.VistaPreviaVentas" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAgAIAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>VistaPreviaVentas.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vistas.WinWelcome" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAABAAACAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>WinLogin.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vistas.Zonas" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Zonas.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vistas.Properties.Resources" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vistas.Properties.Settings" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vistas.User_Controls.Login" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAEAAAAAAA=</HashCode>
+      <FileName>User Controls\Login.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

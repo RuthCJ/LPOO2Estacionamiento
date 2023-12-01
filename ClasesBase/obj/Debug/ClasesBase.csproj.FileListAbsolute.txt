@@ -1,0 +1,38 @@
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\ClasesBase\bin\Debug\ClasesBase.dll.config
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\ClasesBase\bin\Debug\ClasesBase.dll
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\ClasesBase\bin\Debug\ClasesBase.pdb
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\ClasesBase\obj\Debug\ClasesBase.g.resources
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\ClasesBase\obj\Debug\ClasesBase.dll
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Users\maxim\OneDrive\Documentos\LPOOII-GRUPO01\LPOOII_GRUPO01\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\Users\maxim\OneDrive\Documentos\LPOOII-GRUPO01\LPOOII_GRUPO01\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\maxim\OneDrive\Documentos\LPOOII-GRUPO01\LPOOII_GRUPO01\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\maxim\OneDrive\Documentos\LPOOII-GRUPO01\LPOOII_GRUPO01\ClasesBase\obj\Debug\ClasesBase.g.resources
+C:\Users\maxim\OneDrive\Documentos\LPOOII-GRUPO01\LPOOII_GRUPO01\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\maxim\OneDrive\Documentos\LPOOII-GRUPO01\LPOOII_GRUPO01\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Users\maxim\OneDrive\Documentos\LPOOII-GRUPO01\LPOOII_GRUPO01\ClasesBase\obj\Debug\ClasesBase.csprojResolveAssemblyReference.cache
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\ClasesBase\obj\Debug\ClasesBase.g.resources
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\ClasesBase\obj\Debug\ClasesBase.g.resources
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\ClasesBase\obj\Debug\ClasesBase.g.resources
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\ClasesBase\obj\Debug\ClasesBase.csprojResolveAssemblyReference.cache
+C:\Proyecto\LPOOII_GRUPO01\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\Proyecto\LPOOII_GRUPO01\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Proyecto\LPOOII_GRUPO01\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Proyecto\LPOOII_GRUPO01\ClasesBase\obj\Debug\ClasesBase.g.resources
+C:\Proyecto\LPOOII_GRUPO01\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Proyecto\LPOOII_GRUPO01\ClasesBase\obj\Debug\ClasesBase.pdb

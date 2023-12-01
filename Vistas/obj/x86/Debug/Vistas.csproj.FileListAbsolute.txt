@@ -1,0 +1,462 @@
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.exe
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.pdb
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\bin\Debug\Vistas.exe
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\bin\Debug\Vistas.pdb
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\bin\Debug\ClasesBase.dll
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\bin\Debug\ClasesBase.pdb
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMCliente.baml
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMSector.baml
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMUsuario.baml
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMVehiculo.baml
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\AcercaDe.baml
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaClientes.baml
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaSectores.baml
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\RegistrarEntrada.baml
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\SectoresOcupados.baml
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\TicketEntrada.baml
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\TicketWindow.baml
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Ventas.baml
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\VistaPreviaVentas.baml
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Zonas.baml
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\EstadoSector.baml
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaVehiculos.baml
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ListadoUsuario.baml
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\MenuPrincipalWindow.baml
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\RegistrarSalida.baml
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\User Controls\Login.baml
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ValidarCliente.baml
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Sectores.baml
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\VistaPreviaImpresion.baml
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\App.baml
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMCliente.g.cs
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMSector.g.cs
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMUsuario.g.cs
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMVehiculo.g.cs
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\AcercaDe.g.cs
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaClientes.g.cs
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaSectores.g.cs
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\RegistrarEntrada.g.cs
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\SectoresOcupados.g.cs
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\TicketEntrada.g.cs
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\TicketWindow.g.cs
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Ventas.g.cs
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\VistaPreviaVentas.g.cs
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Zonas.g.cs
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\EstadoSector.g.cs
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaVehiculos.g.cs
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ListadoUsuario.g.cs
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\MenuPrincipalWindow.g.cs
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\RegistrarSalida.g.cs
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\User Controls\Login.g.cs
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ValidarCliente.g.cs
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Sectores.g.cs
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\VistaPreviaImpresion.g.cs
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\WinLogin.g.cs
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\App.g.cs
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\WinLogin.baml
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.g.resources
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+D:\MIERCOLES-PRUEBAS\LPOOII_GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.exe
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.pdb
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\bin\Debug\Vistas.exe
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\bin\Debug\Vistas.pdb
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\bin\Debug\ClasesBase.dll
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\bin\Debug\ClasesBase.pdb
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMCliente.baml
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMSector.baml
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMUsuario.baml
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMVehiculo.baml
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\AcercaDe.baml
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaClientes.baml
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaSectores.baml
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\RegistrarEntrada.baml
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\SectoresOcupados.baml
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\TicketEntrada.baml
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\TicketWindow.baml
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Ventas.baml
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\VistaPreviaVentas.baml
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Zonas.baml
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\EstadoSector.baml
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaVehiculos.baml
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ListadoUsuario.baml
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\MenuPrincipalWindow.baml
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\RegistrarSalida.baml
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\User Controls\Login.baml
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ValidarCliente.baml
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Sectores.baml
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\VistaPreviaImpresion.baml
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\App.baml
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMCliente.g.cs
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMSector.g.cs
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMUsuario.g.cs
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMVehiculo.g.cs
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\AcercaDe.g.cs
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaClientes.g.cs
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaSectores.g.cs
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\RegistrarEntrada.g.cs
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\SectoresOcupados.g.cs
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\TicketEntrada.g.cs
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\TicketWindow.g.cs
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Ventas.g.cs
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\VistaPreviaVentas.g.cs
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Zonas.g.cs
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\EstadoSector.g.cs
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaVehiculos.g.cs
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ListadoUsuario.g.cs
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\MenuPrincipalWindow.g.cs
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\RegistrarSalida.g.cs
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\User Controls\Login.g.cs
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ValidarCliente.g.cs
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Sectores.g.cs
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\VistaPreviaImpresion.g.cs
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\WinLogin.g.cs
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\App.g.cs
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\WinLogin.baml
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.g.resources
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+D:\PROYECTO_OFICIAL_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.exe
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.pdb
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\bin\Debug\Vistas.exe
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\bin\Debug\Vistas.pdb
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\bin\Debug\ClasesBase.dll
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\bin\Debug\ClasesBase.pdb
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMCliente.baml
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMSector.baml
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMUsuario.baml
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMVehiculo.baml
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\AcercaDe.baml
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaClientes.baml
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaSectores.baml
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\RegistrarEntrada.baml
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\SectoresOcupados.baml
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\TicketEntrada.baml
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\TicketWindow.baml
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Ventas.baml
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\VistaPreviaVentas.baml
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Zonas.baml
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\EstadoSector.baml
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaVehiculos.baml
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ListadoUsuario.baml
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\MenuPrincipalWindow.baml
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\RegistrarSalida.baml
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\User Controls\Login.baml
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ValidarCliente.baml
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Sectores.baml
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\VistaPreviaImpresion.baml
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\App.baml
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMCliente.g.cs
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMSector.g.cs
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMUsuario.g.cs
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMVehiculo.g.cs
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\AcercaDe.g.cs
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaClientes.g.cs
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaSectores.g.cs
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\RegistrarEntrada.g.cs
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\SectoresOcupados.g.cs
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\TicketEntrada.g.cs
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\TicketWindow.g.cs
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Ventas.g.cs
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\VistaPreviaVentas.g.cs
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Zonas.g.cs
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\EstadoSector.g.cs
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaVehiculos.g.cs
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ListadoUsuario.g.cs
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\MenuPrincipalWindow.g.cs
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\RegistrarSalida.g.cs
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\User Controls\Login.g.cs
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ValidarCliente.g.cs
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Sectores.g.cs
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\VistaPreviaImpresion.g.cs
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\WinLogin.g.cs
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\App.g.cs
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\WinLogin.baml
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.g.resources
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+D:\PROYECTO_OFICIAL-COPIA_MIERCOLES\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\bin\Debug\Vistas.exe
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\bin\Debug\Vistas.pdb
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMCliente.baml
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMSector.baml
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMUsuario.baml
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMVehiculo.baml
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\AcercaDe.baml
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaClientes.baml
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaSectores.baml
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\RegistrarEntrada.baml
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\SectoresOcupados.baml
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\TicketEntrada.baml
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\TicketWindow.baml
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Ventas.baml
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\VistaPreviaVentas.baml
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Zonas.baml
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\EstadoSector.baml
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaVehiculos.baml
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ListadoUsuario.baml
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Main.baml
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\RegistrarSalida.baml
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\User Controls\ctrlLogin.baml
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ValidarCliente.baml
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Sectores.baml
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\VistaPreviaImpresion.baml
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\App.baml
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMCliente.g.cs
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMSector.g.cs
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMUsuario.g.cs
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMVehiculo.g.cs
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\AcercaDe.g.cs
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaClientes.g.cs
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaSectores.g.cs
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\RegistrarEntrada.g.cs
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\SectoresOcupados.g.cs
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\TicketEntrada.g.cs
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\TicketWindow.g.cs
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Ventas.g.cs
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\VistaPreviaVentas.g.cs
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Zonas.g.cs
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\EstadoSector.g.cs
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaVehiculos.g.cs
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ListadoUsuario.g.cs
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Main.g.cs
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\RegistrarSalida.g.cs
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\User Controls\ctrlLogin.g.cs
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ValidarCliente.g.cs
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Sectores.g.cs
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\VistaPreviaImpresion.g.cs
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Login.g.cs
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Login.baml
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\maxim\OneDrive\Documentos\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Main.baml
+C:\Users\maxim\OneDrive\Documentos\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\User Controls\ctrlLogin.baml
+C:\Users\maxim\OneDrive\Documentos\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Main.g.cs
+C:\Users\maxim\OneDrive\Documentos\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\User Controls\ctrlLogin.g.cs
+C:\Users\maxim\OneDrive\Documentos\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Login.g.cs
+C:\Users\maxim\OneDrive\Documentos\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Login.baml
+C:\Users\maxim\OneDrive\Documentos\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas_Content.g.cs
+C:\Users\augus\OneDrive\Documents\0_LPOO2 TP FINAL DE FINALES AHORA SI QUE SI\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\bin\Debug\Vistas.exe.config
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.exe
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\bin\Debug\Vistas.exe
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\bin\Debug\Vistas.pdb
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\bin\Debug\ClasesBase.dll
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\bin\Debug\ClasesBase.pdb
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMCliente.baml
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMSector.baml
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMUsuario.baml
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMVehiculo.baml
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\AcercaDe.baml
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaClientes.baml
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaSectores.baml
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\RegistrarEntrada.baml
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\SectoresOcupados.baml
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\TicketEntrada.baml
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\TicketWindow.baml
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Ventas.baml
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\VistaPreviaVentas.baml
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Zonas.baml
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\EstadoSector.baml
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaVehiculos.baml
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ListadoUsuario.baml
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Main.baml
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\RegistrarSalida.baml
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\User Controls\ctrlLogin.baml
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ValidarCliente.baml
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Sectores.baml
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\VistaPreviaImpresion.baml
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\App.baml
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMCliente.g.cs
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMSector.g.cs
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMUsuario.g.cs
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMVehiculo.g.cs
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\AcercaDe.g.cs
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaClientes.g.cs
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaSectores.g.cs
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\RegistrarEntrada.g.cs
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\SectoresOcupados.g.cs
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\TicketEntrada.g.cs
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\TicketWindow.g.cs
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Ventas.g.cs
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\VistaPreviaVentas.g.cs
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Zonas.g.cs
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\EstadoSector.g.cs
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaVehiculos.g.cs
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ListadoUsuario.g.cs
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Main.g.cs
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\RegistrarSalida.g.cs
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\User Controls\ctrlLogin.g.cs
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ValidarCliente.g.cs
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Sectores.g.cs
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\VistaPreviaImpresion.g.cs
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Login.g.cs
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\App.g.cs
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas_Content.g.cs
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Login.baml
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\bin\Debug\Vistas.exe
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\bin\Debug\Vistas.pdb
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMCliente.baml
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMSector.baml
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMUsuario.baml
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMVehiculo.baml
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\AcercaDe.baml
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaClientes.baml
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaSectores.baml
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\RegistrarEntrada.baml
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\SectoresOcupados.baml
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\TicketEntrada.baml
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\TicketWindow.baml
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\VentanaPresentacion.baml
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Ventas.baml
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\VistaPreviaVentas.baml
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Zonas.baml
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\EstadoSector.baml
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaVehiculos.baml
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ListadoUsuario.baml
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Main.baml
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\RegistrarSalida.baml
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\User Controls\ctrlLogin.baml
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ValidarCliente.baml
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Sectores.baml
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\VistaPreviaImpresion.baml
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\App.baml
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMCliente.g.cs
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMSector.g.cs
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMUsuario.g.cs
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMVehiculo.g.cs
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\AcercaDe.g.cs
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaClientes.g.cs
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaSectores.g.cs
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\RegistrarEntrada.g.cs
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\SectoresOcupados.g.cs
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\TicketEntrada.g.cs
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\TicketWindow.g.cs
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\VentanaPresentacion.g.cs
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Ventas.g.cs
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\VistaPreviaVentas.g.cs
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Zonas.g.cs
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\EstadoSector.g.cs
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaVehiculos.g.cs
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ListadoUsuario.g.cs
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Main.g.cs
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\RegistrarSalida.g.cs
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\User Controls\ctrlLogin.g.cs
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ValidarCliente.g.cs
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Sectores.g.cs
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\VistaPreviaImpresion.g.cs
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Login.g.cs
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas_Content.g.cs
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Login.baml
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\maxim\OneDrive\Documentos\LPOOII--GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\VentanaPresentacion.baml
+C:\Proyecto\LPOOII-GRUPO01\LPOOII_GRUPO01\Vistas\obj\x86\Debug\VentanaPresentacion.g.cs
+C:\Proyecto\LPOOII_GRUPO01\Vistas\bin\Debug\Vistas.exe.config
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.exe
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMCliente.baml
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMSector.baml
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMUsuario.baml
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMVehiculo.baml
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\AcercaDe.baml
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaClientes.baml
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\RegistrarEntrada.baml
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\SectoresOcupados.baml
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\TicketEntrada.baml
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\TicketWindow.baml
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\VentanaPresentacion.baml
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Ventas.baml
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\VistaPreviaVentas.baml
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Zonas.baml
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\EstadoSector.baml
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaVehiculos.baml
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ListadoUsuario.baml
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Main.baml
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\RegistrarSalida.baml
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\User Controls\ctrlLogin.baml
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ValidarCliente.baml
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Sectores.baml
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\VistaPreviaImpresion.baml
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\App.baml
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMCliente.g.cs
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMSector.g.cs
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMUsuario.g.cs
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ABMVehiculo.g.cs
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\AcercaDe.g.cs
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaClientes.g.cs
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\RegistrarEntrada.g.cs
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\SectoresOcupados.g.cs
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\TicketEntrada.g.cs
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\TicketWindow.g.cs
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\VentanaPresentacion.g.cs
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Ventas.g.cs
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\VistaPreviaVentas.g.cs
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Zonas.g.cs
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\EstadoSector.g.cs
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaVehiculos.g.cs
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ListadoUsuario.g.cs
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Main.g.cs
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\RegistrarSalida.g.cs
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\User Controls\ctrlLogin.g.cs
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\ValidarCliente.g.cs
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Sectores.g.cs
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\VistaPreviaImpresion.g.cs
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Login.g.cs
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\App.g.cs
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas_Content.g.cs
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaSectores.baml
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\GrillaSectores.g.cs
+C:\Proyecto\LPOOII_GRUPO01\Vistas\bin\Debug\Vistas.exe
+C:\Proyecto\LPOOII_GRUPO01\Vistas\bin\Debug\Vistas.pdb
+C:\Proyecto\LPOOII_GRUPO01\Vistas\bin\Debug\ClasesBase.dll
+C:\Proyecto\LPOOII_GRUPO01\Vistas\bin\Debug\ClasesBase.pdb
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Login.baml
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Proyecto\LPOOII_GRUPO01\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
